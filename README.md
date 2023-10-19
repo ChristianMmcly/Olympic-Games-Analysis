@@ -1,5 +1,5 @@
 # Olympic-Games-Analysis
-The completed dashboard includes visualizations and filters that provide viewers a simple way to browse the summer games through time. Some options include using the year as a filter for time, utilizing the nation code to concentrate on a single nation, or examining a competitor or a particular sport across time.
+
 
 The Main goal is to visualize data that will help readers understand how countries have performed historically in the summer Olympic Games.
 The primary objective is still to provide historical performance data for many nations, with the option to select the country you represent.
